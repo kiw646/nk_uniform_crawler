@@ -1,0 +1,4 @@
+ddgs
+requests
+Pillow
+tqdm
